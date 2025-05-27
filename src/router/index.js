@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import Dashboard from './Dashboard.vue'
+import Dashboard from '../views/Dashboard.vue'
 import Orders from './Orders.vue'
 import Menu from './Menu.vue'
 import Cart from './Cart.vue'
