@@ -1,13 +1,13 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import Dashboard from '../views/Dashboard.vue'
-import Orders from './Orders.vue'
-import Menu from './Menu.vue'
-import Cart from './Cart.vue'
-import History from './History.vue'
-import Profile from './Profile.vue'
-import Logout from './Logout.vue'
-import Login from './Login.vue' 
+import Orders from '../views/Orders.vue'
+import Menu from '../views/Menu.vue'
+import Cart from '../views/Cart.vue'
+import History from '../views/History.vue'
+import Profile from '../views/Profile.vue'
+import Logout from '../views/Logout.vue'
+import Login from '../views/Login.vue' 
 
 const routes = [
   { path: '/', component: Dashboard },
