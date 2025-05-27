@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar">
     <div class="brand">
-      <img src="C:\Users\Rafli\Documents\tugs2\foodorder-app\img\WhatsApp Image 2025-03-07 at 03.08.53.jpeg" alt="Food Logo" class="logo" />
+      <img src="C:\Users\Rafli\Documents\TUGAS10_\food-order\img\oakwoawkok.jpg" alt="Food Logo" class="logo" />
       <h2>FOOD ORDER</h2>
     </div>
     <ul class="nav-menu">
